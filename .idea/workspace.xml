@@ -1,32 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b14aace1-c5fa-4b2f-8bfb-0ad82bbc91d9" name="Default Changelist" comment="" />
+    <list default="true" id="b14aace1-c5fa-4b2f-8bfb-0ad82bbc91d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/oetpn_framework/src/twointersectionsproject/Intersections12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oetpn_framework/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oetpn_framework/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oetpn_framework/bin/twointersectionsproject/Controller1.class" beforeDir="false" afterPath="$PROJECT_DIR$/oetpn_framework/bin/twointersectionsproject/Controller1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oetpn_framework/bin/twointersectionsproject/Controller2.class" beforeDir="false" afterPath="$PROJECT_DIR$/oetpn_framework/bin/twointersectionsproject/Controller2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oetpn_framework/bin/twointersectionsproject/Intersection2.class" beforeDir="false" afterPath="$PROJECT_DIR$/oetpn_framework/bin/twointersectionsproject/Intersection2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oetpn_framework/src/twointersectionsproject/Controller1.java" beforeDir="false" afterPath="$PROJECT_DIR$/oetpn_framework/src/twointersectionsproject/Controller1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oetpn_framework/src/twointersectionsproject/Controller2.java" beforeDir="false" afterPath="$PROJECT_DIR$/oetpn_framework/src/twointersectionsproject/Controller2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oetpn_framework/src/twointersectionsproject/Intersection1.java" beforeDir="false" afterPath="$PROJECT_DIR$/oetpn_framework/src/twointersectionsproject/Intersection1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oetpn_framework/src/twointersectionsproject/Intersection2.java" beforeDir="false" afterPath="$PROJECT_DIR$/oetpn_framework/src/twointersectionsproject/Intersection2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/two_intersections_project/OETPN_diagrams/Main_Intersection.png" beforeDir="false" afterPath="$PROJECT_DIR$/two_intersections_project/OETPN_diagrams/Main_Intersection.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/two_intersections_project/OETPN_diagrams/Second_Intersection.png" beforeDir="false" afterPath="$PROJECT_DIR$/two_intersections_project/OETPN_diagrams/Second_Intersection.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2K2nAhlVUb5Pz7392RFGJmVFPCs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/oetpn_framework/src/two-intersections-project" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/School/4thYear/Sem2/two-intersections-controller"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\GitHub\two-intersections-controller\oetpn_framework\src\two-intersections-project" />
@@ -36,13 +57,24 @@
       <recent name="twointersectionsproject" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Intersection2">
-    <configuration name="Controller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.OER_TPN_LAB.Controller" />
+  <component name="RunManager" selected="Compound.Simulation1">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Controller1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twointersectionsproject.Controller1" />
       <module name="New OETPN" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.OER_TPN_LAB.*" />
+          <option name="PATTERN" value="twointersectionsproject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,7 +82,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Controller2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twointersectionsproject.Controller2" />
+      <module name="New OETPN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="twointersectionsproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputCar" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.GUIs.InputCar" />
       <module name="New OETPN" />
       <extension name="coverage">
@@ -76,32 +121,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Intersectia Junglei" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="twointersectionsproject.Intersection1" />
-      <module name="New OETPN" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.GUIs.InputString" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-        <pattern>
-          <option name="PATTERN" value="com.GUIs.InputCar" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-        <pattern>
-          <option name="PATTERN" value="twointersectionsproject.Intersection1" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-        <pattern>
-          <option name="PATTERN" value="twointersectionsproject.Intersection2" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Intersection1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Intersection1" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="twointersectionsproject.Intersection1" />
       <module name="New OETPN" />
       <extension name="coverage">
@@ -127,32 +147,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="twointersectionsproject.Intersection1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twointersectionsproject.Intersection1" />
+      <module name="New OETPN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.GUIs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Simulation1" type="CompoundRunConfigurationType">
+      <toRun name="Controller1" type="Application" />
+      <toRun name="InputCar" type="Application" />
+      <toRun name="Intersection1" type="Application" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Application.InputString" />
-      <item itemvalue="Application.Controller" />
-      <item itemvalue="Application.Intersectia Junglei" />
+      <item itemvalue="Application.Controller1" />
       <item itemvalue="Application.Intersection1" />
-      <item itemvalue="Application.Intersection2" />
       <item itemvalue="Application.InputCar" />
+      <item itemvalue="Application.Controller2" />
+      <item itemvalue="Application.Intersection2" />
+      <item itemvalue="Application.twointersectionsproject.Intersection1" />
+      <item itemvalue="Compound.Simulation1" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Intersection2" />
-        <item itemvalue="Application.Intersection1" />
-        <item itemvalue="Application.InputCar" />
-        <item itemvalue="Application.Intersectia Junglei" />
-        <item itemvalue="Application.Controller" />
+        <item itemvalue="Application.twointersectionsproject.Intersection1" />
+        <item itemvalue="Application.Controller2" />
       </list>
     </recent_temporary>
   </component>
