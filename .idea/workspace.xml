@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b14aace1-c5fa-4b2f-8bfb-0ad82bbc91d9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b14aace1-c5fa-4b2f-8bfb-0ad82bbc91d9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673181408297</updated>
-      <workItem from="1673181411890" duration="957000" />
+      <workItem from="1673181411890" duration="1585000" />
     </task>
     <task id="LOCAL-00001" summary="add DCS project sessions">
       <created>1673182220248</created>
@@ -80,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673182220248</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="remove unused folder">
+      <created>1673182404078</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673182404078</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add DCS project sessions" />
-    <option name="LAST_COMMIT_MESSAGE" value="add DCS project sessions" />
+    <MESSAGE value="remove unused folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove unused folder" />
   </component>
 </project>
