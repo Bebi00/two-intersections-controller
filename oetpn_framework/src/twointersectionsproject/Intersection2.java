@@ -76,10 +76,14 @@ public class Intersection2 {
 		p17.SetName("P_o5");
 		pn.PlaceList.add(p17);
 
-		DataTransfer p18 = new DataTransfer(); //p18.Printable = false;
+		DataCar p18 = new DataCar(); //p18.Printable = false;
 		p18.SetName("P_o5Exit");
-		p18.Value = new TransferOperation("localhost","1081", "P_a1" );
 		pn.PlaceList.add(p18);
+
+		DataTransfer p18s = new DataTransfer(); //p20.Printable = false;
+		p18s.SetName("P_o5Send");
+		p18s.Value = new TransferOperation("localhost","1081", "P_a1" );
+		pn.PlaceList.add(p18s);
 
 		// ----------------------------------------------------------------------------
 		// ----------------------------Exit lane 2-------------------------------------
@@ -202,11 +206,27 @@ public class Intersection2 {
 
 		GuardMapping grdT9 = new GuardMapping();
 		grdT9.condition = T9Ct1;
-		grdT9.Activations.add(new Activation(t9, "P_o5", TransitionOperation.SendOverNetwork, "P_o5Exit"));
+		grdT9.Activations.add(new Activation(t9, "P_o5", TransitionOperation.PopElementWithoutTarget, "P_o5Exit"));
 		t9.GuardMappingList.add(grdT9);
 
 		t9.Delay = 0;
 		pn.Transitions.add(t9);
+
+		// T10----------------------------------------------------------------
+
+		PetriTransition t10s = new PetriTransition(pn);
+		t10s.TransitionName = "T_g5Send";
+		t10s.InputPlaceName.add("P_o5Exit");
+
+		Condition T10sCt1 = new Condition(t10s, "P_o5Exit", TransitionCondition.NotNull);
+
+		GuardMapping grdT10s = new GuardMapping();
+		grdT10s.condition = T10sCt1;
+		grdT10s.Activations.add(new Activation(t10s, "P_o5Exit", TransitionOperation.SendOverNetwork, "P_o5Send"));
+		t10s.GuardMappingList.add(grdT10s);
+
+		t10s.Delay = 0;
+		pn.Transitions.add(t10s);
 
 		// T10----------------------------------------------------------------
 
