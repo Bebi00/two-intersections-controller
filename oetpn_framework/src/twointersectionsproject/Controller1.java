@@ -80,10 +80,10 @@ public class Controller1 {
         in2.SetName("in2");
         pn.PlaceList.add(in2);
 
-        DataInteger Five = new DataInteger();
-        Five.SetName("Fifteen");
-        Five.SetValue(15);
-        pn.ConstantPlaceList.add(Five);
+        DataInteger fifteen = new DataInteger();
+        fifteen.SetName("Fifteen");
+        fifteen.SetValue(15);
+        pn.ConstantPlaceList.add(fifteen);
 
         DataInteger One = new DataInteger();
         One.SetName("One");

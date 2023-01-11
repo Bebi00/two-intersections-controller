@@ -24,6 +24,12 @@ public class Intersection2 {
 		green.SetValue("green");
 		pn.ConstantPlaceList.add(green);
 
+		DataString full = new DataString();
+		full.Printable = false;
+		full.SetName("full");
+		full.SetValue("full");
+		pn.ConstantPlaceList.add(full);
+
 		// -------------------------------------------------------------------
 		// -------------------------------Lane1--------------------------------
 		// --------------------------------------------------------------------
@@ -85,6 +91,11 @@ public class Intersection2 {
 		p18s.Value = new TransferOperation("localhost","1081", "P_a1" );
 		pn.PlaceList.add(p18s);
 
+		DataTransfer p18o = new DataTransfer(); //p20.Printable = false;
+		p18o.SetName("P_out5");
+		p18o.Value = new TransferOperation("localhost","1084", "in5" );
+		pn.PlaceList.add(p18o);
+
 		// ----------------------------------------------------------------------------
 		// ----------------------------Exit lane 2-------------------------------------
 		// ----------------------------------------------------------------------------
@@ -97,6 +108,11 @@ public class Intersection2 {
 		DataCar p20 = new DataCar(); //p20.Printable = false;
 		p20.SetName("P_o6Exit");
 		pn.PlaceList.add(p20);
+
+		DataTransfer p20o = new DataTransfer(); //p20.Printable = false;
+		p20o.SetName("P_out6");
+		p20o.Value = new TransferOperation("localhost","1084", "in6" );
+		pn.PlaceList.add(p20o);
 
 		// ----------------------------------------------------------------------------
 		// ----------------------------Exit lane 3-------------------------------------
@@ -120,6 +136,36 @@ public class Intersection2 {
 		p25.Value.Size = 3;
 		p25.SetName("P_I");
 		pn.PlaceList.add(p25);
+
+		// T1 - Out Intersection full -------------------------------------
+		PetriTransition t1out = new PetriTransition(pn);
+		t1out.TransitionName = "T_out1";
+		t1out.InputPlaceName.add("P_x5");
+
+		Condition T1outCt1 = new Condition(t1out, "P_x5", TransitionCondition.CanNotAddCars);
+
+		GuardMapping grdT1out = new GuardMapping();
+		grdT1out.condition = T1outCt1;
+		grdT1out.Activations.add(new Activation(t1out, "full", TransitionOperation.SendOverNetwork, "P_out5"));
+		t1out.GuardMappingList.add(grdT1out);
+
+		t1out.Delay = 0;
+		pn.Transitions.add(t1out);
+
+		// T2 - Out Intersection full -------------------------------------
+		PetriTransition t2out = new PetriTransition(pn);
+		t2out.TransitionName = "T_out2";
+		t2out.InputPlaceName.add("P_x6");
+
+		Condition T2outCt1 = new Condition(t2out, "P_x6", TransitionCondition.CanNotAddCars);
+
+		GuardMapping grdT2out = new GuardMapping();
+		grdT2out.condition = T2outCt1;
+		grdT2out.Activations.add(new Activation(t2out, "full", TransitionOperation.SendOverNetwork, "P_out6"));
+		t2out.GuardMappingList.add(grdT2out);
+
+		t2out.Delay = 0;
+		pn.Transitions.add(t2out);
 
 		// T1 ------------------------ Input LANE 1 ------------------------------------------------
 		PetriTransition t1 = new PetriTransition(pn);
@@ -191,7 +237,7 @@ public class Intersection2 {
 		grdT4.condition = T4Ct1;
 		grdT4.Activations.add(new Activation(t4, "P_x6", TransitionOperation.PopElementWithoutTarget, "P_b6"));
 		grdT4.Activations.add(new Activation(t4, "P_TL4", TransitionOperation.Move, "P_TL4"));
-		t4.GuardMappingList.add(grdT2);
+		t4.GuardMappingList.add(grdT4);
 
 		t4.Delay = 0;
 		pn.Transitions.add(t4);
