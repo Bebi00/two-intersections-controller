@@ -81,7 +81,7 @@ public class Controller1 {
         pn.PlaceList.add(in2);
 
         DataInteger Five = new DataInteger();
-        Five.SetName("Five");
+        Five.SetName("Fifteen");
         Five.SetValue(15);
         pn.ConstantPlaceList.add(Five);
 
@@ -144,7 +144,7 @@ public class Controller1 {
         grdT2.condition = T2Ct1;
         grdT2.Activations.add(new Activation(t2, "g1r2", TransitionOperation.Move, "y1r2"));
         grdT2.Activations.add(new Activation(t2, "yellow", TransitionOperation.SendOverNetwork, "OP1"));
-        grdT2.Activations.add(new Activation(t2, "Five", TransitionOperation.DynamicDelay,""));
+        grdT2.Activations.add(new Activation(t2, "Fifteen", TransitionOperation.DynamicDelay,""));
 
         t2.GuardMappingList.add(grdT2);
 
@@ -202,7 +202,7 @@ public class Controller1 {
         grdT4.condition = T4Ct1;
         grdT4.Activations.add(new Activation(t4, "r1g2", TransitionOperation.Move, "r1y2"));
         grdT4.Activations.add(new Activation(t4, "yellow", TransitionOperation.SendOverNetwork, "OP2"));
-        grdT4.Activations.add(new Activation(t4, "Five", TransitionOperation.DynamicDelay,""));
+        grdT4.Activations.add(new Activation(t4, "Fifteen", TransitionOperation.DynamicDelay,""));
 
         t4.GuardMappingList.add(grdT4);
 

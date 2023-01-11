@@ -15,7 +15,7 @@ public class CarQueue implements Cloneable, Serializable {
 		return (CarQueue) super.clone();
 	}
 
-	public ArrayList<DataCar> Cars = new ArrayList<DataCar>();
+	public ArrayList<DataCar> Cars = new ArrayList<>();
 	public Integer Size = 5;
 
 	public CarQueue() {
@@ -41,8 +41,8 @@ public class CarQueue implements Cloneable, Serializable {
 		if (Cars.size() < Size) {
 			return true;
 		} else {
-			for (int i = 0; i < Cars.size(); i++) {
-				if (Cars.get(i) == null) {
+			for (DataCar car : Cars) {
+				if (car == null) {
 					return true;
 				}
 			}
@@ -51,20 +51,11 @@ public class CarQueue implements Cloneable, Serializable {
 	}
 	
 	public boolean CanNotAddCar() {
-		if (Cars.size() >= Size) {
-			return true;
-		} else {
-			for (int i = 0; i < Cars.size(); i++) {
-				if (Cars.get(i) == null) {
-					return false;
-				}
-			}
-		}
-		return false;
+		return !CanAddCar();
 	}
 
 	public DataCar PopCar(String target) {
-		Integer index = -1;
+		int index = -1;
 		for (int i = 0; i < Cars.size(); i++) {
 			if (Cars.get(i) != null && Cars.get(i).Value != null)
 				if (Cars.get(i).Value.Targets.contains(target)) {
@@ -90,7 +81,7 @@ public class CarQueue implements Cloneable, Serializable {
 	}
 
 	public DataCar PopCartWithoutTarget() {
-		Integer index = -1;
+		int index = -1;
 		for (int i = 0; i < Cars.size(); i++) {
 			if (Cars.get(i) != null && Cars.get(i).Value != null) {
 				index = i;
@@ -115,7 +106,7 @@ public class CarQueue implements Cloneable, Serializable {
 	}
 
 	public String toString() {
-		ArrayList<String> temp1 = new ArrayList<String>();
+		ArrayList<String> temp1 = new ArrayList<>();
 		for (DataCar car : Cars) {
 			if (car == null)
 				temp1.add("NULL");
@@ -125,4 +116,4 @@ public class CarQueue implements Cloneable, Serializable {
 
 		return "(" + String.join(",", temp1) + ")";
 	}
-};
+}

@@ -27,6 +27,12 @@ public class Intersection1 {
 		green.SetValue("green");
 		pn.ConstantPlaceList.add(green);
 
+		DataString full = new DataString();
+		full.Printable = false;
+		full.SetName("full");
+		full.SetValue("full");
+		pn.ConstantPlaceList.add(full);
+
 		// -------------------------------------------------------------------
 		// -------------------------------Lane1--------------------------------
 		// --------------------------------------------------------------------
@@ -96,9 +102,8 @@ public class Intersection1 {
 		p19.SetName("P_o2");
 		pn.PlaceList.add(p19);
 
-		DataTransfer p20 = new DataTransfer(); //p20.Printable = false;
+		DataCar p20 = new DataCar(); //p20.Printable = false;
 		p20.SetName("P_o2Exit");
-		p20.Value = new TransferOperation("localhost","1082", "P_a1" );
 		pn.PlaceList.add(p20);
 
 		DataTransfer p20s = new DataTransfer(); //p20.Printable = false;
@@ -157,7 +162,7 @@ public class Intersection1 {
 
 		GuardMapping grdT1out = new GuardMapping();
 		grdT1out.condition = T1outCt1;
-		grdT1out.Activations.add(new Activation(t1out, "green", TransitionOperation.SendOverNetwork, "P_out1"));
+		grdT1out.Activations.add(new Activation(t1out, "full", TransitionOperation.SendOverNetwork, "P_out1"));
 		t1out.GuardMappingList.add(grdT1out);
 
 		t1out.Delay = 0;
@@ -172,8 +177,8 @@ public class Intersection1 {
 
 		GuardMapping grdT2out = new GuardMapping();
 		grdT2out.condition = T2outCt1;
-		grdT2out.Activations.add(new Activation(t1out, "green", TransitionOperation.SendOverNetwork, "P_out2"));
-		t2out.GuardMappingList.add(grdT1out);
+		grdT2out.Activations.add(new Activation(t2out, "full", TransitionOperation.SendOverNetwork, "P_out2"));
+		t2out.GuardMappingList.add(grdT2out);
 
 		t2out.Delay = 0;
 		pn.Transitions.add(t2out);
@@ -248,7 +253,7 @@ public class Intersection1 {
 		grdT4.condition = T4Ct1;
 		grdT4.Activations.add(new Activation(t4, "P_x2", TransitionOperation.PopElementWithoutTarget, "P_b2"));
 		grdT4.Activations.add(new Activation(t4, "P_TL2", TransitionOperation.Move, "P_TL2"));
-		t4.GuardMappingList.add(grdT2);
+		t4.GuardMappingList.add(grdT4);
 
 		t4.Delay = 0;
 		pn.Transitions.add(t4);
