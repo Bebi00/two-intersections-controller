@@ -82,6 +82,11 @@ public class Intersection1 {
 		p18.SetName("P_o1Exit");
 		pn.PlaceList.add(p18);
 
+		DataTransfer p18o = new DataTransfer(); //p20.Printable = false;
+		p18o.SetName("P_out1");
+		p18o.Value = new TransferOperation("localhost","1083", "in1" );
+		pn.PlaceList.add(p18o);
+
 		// ----------------------------------------------------------------------------
 		// ----------------------------Exit lane 2-------------------------------------
 		// ----------------------------------------------------------------------------
@@ -100,6 +105,11 @@ public class Intersection1 {
 		p20s.SetName("P_o2Send");
 		p20s.Value = new TransferOperation("localhost","1082", "P_a5" );
 		pn.PlaceList.add(p20s);
+
+		DataTransfer p20o = new DataTransfer(); //p20.Printable = false;
+		p20o.SetName("P_out2");
+		p20o.Value = new TransferOperation("localhost","1083", "in2" );
+		pn.PlaceList.add(p20o);
 
 
 
@@ -137,6 +147,36 @@ public class Intersection1 {
 		p25.Value.Size = 3;
 		p25.SetName("P_I");
 		pn.PlaceList.add(p25);
+
+		// T1 - Out Intersection full -------------------------------------
+		PetriTransition t1out = new PetriTransition(pn);
+		t1out.TransitionName = "T_out1";
+		t1out.InputPlaceName.add("P_x1");
+
+		Condition T1outCt1 = new Condition(t1out, "P_x1", TransitionCondition.CanNotAddCars);
+
+		GuardMapping grdT1out = new GuardMapping();
+		grdT1out.condition = T1outCt1;
+		grdT1out.Activations.add(new Activation(t1out, "green", TransitionOperation.SendOverNetwork, "P_out1"));
+		t1out.GuardMappingList.add(grdT1out);
+
+		t1out.Delay = 0;
+		pn.Transitions.add(t1out);
+
+		// T2 - Out Intersection full -------------------------------------
+		PetriTransition t2out = new PetriTransition(pn);
+		t2out.TransitionName = "T_out2";
+		t2out.InputPlaceName.add("P_x2");
+
+		Condition T2outCt1 = new Condition(t2out, "P_x2", TransitionCondition.CanNotAddCars);
+
+		GuardMapping grdT2out = new GuardMapping();
+		grdT2out.condition = T2outCt1;
+		grdT2out.Activations.add(new Activation(t1out, "green", TransitionOperation.SendOverNetwork, "P_out2"));
+		t2out.GuardMappingList.add(grdT1out);
+
+		t2out.Delay = 0;
+		pn.Transitions.add(t2out);
 
 		// T1 --------------------------------------------------------
 		PetriTransition t1 = new PetriTransition(pn);
