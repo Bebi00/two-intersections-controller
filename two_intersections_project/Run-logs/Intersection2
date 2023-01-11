@@ -1,0 +1,308 @@
+Paused....
+ ExecutionList [T_out1 Temp Marking []]
+[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(P_x5(model-number),P_x5(model-number),P_x5(model-number))|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|(NULL)|  P_o7Exit(model-number)  P_I|(NULL)|]
+ ExecutionList [T_out1 Temp Marking []]
+[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(P_x5(model-number),P_x5(model-number),P_x5(model-number))|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|(NULL)|  P_o7Exit(model-number)  P_I|(NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL4
+ ExecutionList [T_out1 Temp Marking []]
+[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(P_x5(model-number),P_x5(model-number),P_x5(model-number))|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(yellow)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|(NULL)|  P_o7Exit(model-number)  P_I|(NULL)|]
+ ExecutionList [T_out1 Temp Marking []]
+[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(P_x5(model-number),P_x5(model-number),P_x5(model-number))|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(yellow)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|(NULL)|  P_o7Exit(model-number)  P_I|(NULL)|]
+ ExecutionList [T_u5 Temp Marking [P_a5(model-number)]]
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(model-number)  P_x5|(NULL,P_x5(model-number),P_x5(model-number))|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(yellow)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|(NULL)|  P_o7Exit(model-number)  P_I|(NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a5
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(NULL,P_x5(model-number),P_x5(model-number))|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(yellow)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|(NULL)|  P_o7Exit(model-number)  P_I|(NULL)|]
+ ExecutionList [T_u5 Temp Marking [P_a5(model-number)]]
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(model-number)  P_x5|(NULL,P_x5(model-number))|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(yellow)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|(NULL)|  P_o7Exit(model-number)  P_I|(NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a5
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(NULL,P_x5(model-number))|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(yellow)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|(NULL)|  P_o7Exit(model-number)  P_I|(NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL4
+ ExecutionList [T_u5 Temp Marking [P_a5(model-number)]]
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(model-number)  P_x5|(NULL)|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(green)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|(NULL)|  P_o7Exit(model-number)  P_I|(NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a5
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(NULL)|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(green)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|(NULL)|  P_o7Exit(model-number)  P_I|(NULL)|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL4
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL3
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(NULL)|  P_TL3(yellow)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|(NULL)|  P_o7Exit(model-number)  P_I|(NULL)|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(NULL)|  P_TL3(yellow)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|(NULL)|  P_o7Exit(model-number)  P_I|(NULL)|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(NULL)|  P_TL3(yellow)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|(NULL)|  P_o7Exit(model-number)  P_I|(NULL)|]
+ ExecutionList [T_g7Exit Temp Marking []]
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(NULL)|  P_TL3(yellow)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|(P_o7(model-number))|  P_o7Exit(Null)  P_I|(NULL)|]
+ ExecutionList [T_g7 Temp Marking []]
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(NULL)|  P_TL3(yellow)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|(P_I(model-number))|]
+ ExecutionList [T_i5 Temp Marking [P_b5(model-number)]]
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(NULL)|  P_TL3(yellow)  P_b5(model-number)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL3
+ ExecutionList [T_e5 Temp Marking [P_TL3(green)]]
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(P_x5(model-number))|  P_TL3(Null)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList [T_e5 Temp Marking [P_TL3(green)]]
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(P_x5(model-number))|  P_TL3(green)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL3
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(P_x5(model-number))|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(P_x5(model-number))|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(P_x5(model-number))|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(P_x5(model-number))|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(P_x5(model-number))|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(P_x5(model-number))|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL4
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(P_x5(model-number))|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(yellow)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(P_x5(model-number))|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(yellow)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(P_x5(model-number))|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(yellow)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(P_x5(model-number))|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(yellow)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|(P_x5(model-number))|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(yellow)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL4
+ ExecutionList [T_u5 Temp Marking [P_a5(model-number)]]
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(model-number)  P_x5|()|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(green)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_a5
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(green)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL4
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL3
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(yellow)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(yellow)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(yellow)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(yellow)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(yellow)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(yellow)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL3
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(green)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(green)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL3
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(red)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL4
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(yellow)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(yellow)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(yellow)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(yellow)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(yellow)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL4
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(green)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(green)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(green)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(green)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(green)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(red)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(green)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL4
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL3
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(yellow)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(Null)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(yellow)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(Null)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(yellow)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(Null)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(yellow)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(Null)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(yellow)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(Null)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(yellow)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(Null)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL3
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(green)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(Null)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(green)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(Null)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(green)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(Null)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(green)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(Null)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(green)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(Null)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(green)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(Null)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_TL3
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(Null)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(Null)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(Null)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(Null)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+ ExecutionList []
+[T_out1 conditions are false]0[T_out2 conditions are false]0[T_u5 conditions are false]0[T_e5 conditions are false]1[T_u6 conditions are false]0[T_e6 conditions are false]0[T_g5Exit conditions are false]0[T_g5Send conditions are false]0[T_g6Exit conditions are false]0[T_g7Exit conditions are false]0[T_i5 conditions are false]0[T_g5 conditions are false]0[T_i6 conditions are false]0[T_g6 conditions are false]0[T_g7 conditions are false]0
+ ConstantPlaceList []
+ PlaceList [P_a5(Null)  P_x5|()|  P_TL3(Null)  P_b5(Null)  P_a6(Null)  P_x6|()|  P_TL4(Null)  P_b6(Null)  P_o5|()|  P_o5Exit(Null)  P_o5Send(localhost-1081-P_a1)  P_out5(localhost-1084-in5)  P_o6|()|  P_o6Exit(Null)  P_out6(localhost-1084-in6)  P_o7|()|  P_o7Exit(Null)  P_I|()|]
+Waiting For Commands over this port:1082
