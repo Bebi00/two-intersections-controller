@@ -1,5 +1,3 @@
-# two-intersections-controller
-
 ## This repository contains all the information regarding the semester project from the **Distributed Control Systems** class
 
 The oetpn_framework used for developing the source code can be found at the [link](https://bitbucket.org/dahliajj/oetpn_oertpn_framework.git)
